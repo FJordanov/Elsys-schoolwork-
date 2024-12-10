@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+struct TypeInfo{
+    char name;
+    char format;
+    int byte_size;
+    int max_signed;
+    int min_signed;
+    char format_unsigned;
+    unsigned int max_unsigned;
+};
+
+void print_table(struct TypeInfo){
+    printf
+}

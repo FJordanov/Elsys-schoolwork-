@@ -1,0 +1,29 @@
+/*Да се състави програма, която да намира сумата на простите числа в даден масив (1 не се смята за просто число). 
+Примерен вход: {1, 7, 10, 15, 16, 13, 23, 30} => Изход: 43 = 7 + 13 + 23*/
+#include <stdio.h>
+
+int prime(int a) {
+    if (a <= 1){
+        return false;
+    }
+    for (int i=2; i<a; i++){
+        return false;
+    }
+    else (int sum) {
+        sum = sum + a;
+    }
+}
+
+void main() {
+    int arr[7] = 1, 7, 10, 15, 16, 13, 23, 30;
+    int prime(arr[0];)
+    int prime(arr[1];)
+    int prime(arr[2];)
+    int prime(arr[3];)
+    int prime(arr[4];)
+    int prime(arr[5];)
+    int prime(arr[6];)
+    int prime(arr[7];)
+    printf("%d",sum);
+
+}
