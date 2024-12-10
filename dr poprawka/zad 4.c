@@ -12,3 +12,5 @@ int main(){
 
     return 0;
 }
+
+//same as zad 3, a tehnikal mistake
